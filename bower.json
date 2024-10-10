@@ -13,16 +13,5 @@
     "output",
     "bower.json",
     "package.json"
-  ],
-  "dependencies": {
-    "purescript-fixed-points": "^7.0.0",
-    "purescript-free": "^7.0.0",
-    "purescript-prelude": "^6.0.0",
-    "purescript-profunctor": "^6.0.0",
-    "purescript-transformers": "^6.0.0"
-  },
-  "devDependencies": {
-    "purescript-console": "^6.0.0",
-    "purescript-effect": "^4.0.0"
-  }
+  ]
 }

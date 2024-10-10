@@ -1,0 +1,32 @@
+package:
+  name: matryoshka
+  publish:
+    license: Apache-2.0
+    version: 1.0.0
+    location:
+      githubOwner: purescript-contrib
+      githubRepo: purescript-matryoshka
+  dependencies:
+    - bifunctors
+    - control
+    - distributive
+    - either
+    - fixed-points
+    - foldable-traversable
+    - free
+    - identity
+    - lists
+    - newtype
+    - prelude
+    - profunctor
+    - transformers
+    - tuples
+  test:
+    main: Test.Main
+    dependencies:
+      - console
+      - effect
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 60.5.0
