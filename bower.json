@@ -1,9 +1,0 @@
-{
-  "name": "purescript-matryoshka",
-  "homepage": "https://github.com/purescript-contrib/purescript-matryoshka",
-  "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/purescript-contrib/purescript-matryoshka.git"
-  }
-}
